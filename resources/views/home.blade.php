@@ -6,7 +6,7 @@
     <title>InfoBMKG</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-gray-100 text-gray-900 min-h-screen w-96 flex flex-col mx-auto my-8 border border-gray-300 rounded-lg shadow-lg">
+<body class="bg-gray-100 text-gray-900 h-[670px] w-[360px] flex flex-col mx-auto my-8 border border-gray-300 rounded-lg shadow-lg">
     <!-- Header -->
     <header class="bg-blue-600 text-white py-3 px-4 flex flex-row justify-center gap-3 items-center shadow-md rounded-t-lg">
         <img src="{{ asset('assets/InfoBMKG.png') }}" alt="Logo">
